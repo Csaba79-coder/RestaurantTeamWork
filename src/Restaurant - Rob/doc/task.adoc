@@ -1,0 +1,25 @@
+= Restaurant
+
+=== We have a restaurant to run.
+
+Create a program which helps our employees handle our restaurant.
+We have customers to serve!
+Our customers will have their seat at our tables and request from our menu.
+We need a software to handle our resources so we will know if we can serve our customers.
+
+---
+
+At the first step we does not need to worry about reloading our storages or washing our tools!
+
+---
+
+Our storage can be found in the .txt files in the resources folder (feel free to change it),
+we need to upload the program from there.
+
+Our incoming customers can be handled optionally from a file or using the Scanner with the Terminal.
+f.e.: in the file each line will be a table/customer
+Each table needs to handle customer requests.
+
+You will find more hints in the already created classes,
+but it is not mandatory to follow the given structure.
+Feel free to create new classes and packages.

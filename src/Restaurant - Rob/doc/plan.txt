@@ -1,0 +1,3 @@
+Készítünk egy orders mappát, amiben létre lehet hozni fileokat, ezek lesznek a rendelések.
+Ezeket a fileokat betöltjük egy listába.
+elosztjuk a rendeléseket asztalokra.

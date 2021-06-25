@@ -1,0 +1,6 @@
+Dreher gold,80
+Pilsner,80
+Tokaji aszu,40
+Coca-Cola,100
+Fanta orange,70
+Kinley ginger ale,60
